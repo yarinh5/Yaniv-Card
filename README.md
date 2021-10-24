@@ -1,4 +1,4 @@
-# CPP-Yaniv
+# Yaniv Card Game with CPP
 
 Yaniv Card Game written in C++ that is played in the console.
 
